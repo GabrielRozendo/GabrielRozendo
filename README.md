@@ -64,6 +64,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 07 August, 2020 - 14 August, 2020
+
 Swift      12 hrs 33 mins  ███████████░░░░░░░░░░░░░░   45.83 % 
 Other      11 hrs 53 mins  ██████████░░░░░░░░░░░░░░░   43.41 % 
 Markdown   2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
