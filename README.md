@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2020 - 01 September, 2020
+Week: 26 August, 2020 - 02 September, 2020
 
-Swift        43 hrs 5 mins   █████████████████▓░░░░░░░   70.93 % 
-Dart         11 hrs 1 min    ████▓░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Markdown     2 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Other        1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-TypeScript   1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Swift        45 hrs 43 mins  ██████████████████▓░░░░░░   74.13 % 
+Dart         9 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Markdown     3 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Other        1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript   1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 <!--END_SECTION:waka-->
