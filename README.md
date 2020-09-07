@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2020 - 05 September, 2020
+Week: 30 August, 2020 - 06 September, 2020
 
-Swift      37 hrs 47 mins  ██████████████████████▒░░   89.99 % 
-Other      1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Makefile   58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Markdown   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-JSON       40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Swift        26 hrs 35 mins  ███████████████████▓░░░░░   79.20 % 
+JavaScript   1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Other        1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Makefile     1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 <!--END_SECTION:waka-->
