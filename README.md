@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2020 - 10 September, 2020
+Week: 04 September, 2020 - 11 September, 2020
 
-Dart         6 hrs 44 mins   ██████████▓░░░░░░░░░░░░░░   42.18 % 
-Swift        2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-JavaScript   1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Other        1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Makefile     1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Dart         6 hrs 49 mins   ███████████▒░░░░░░░░░░░░░   44.73 % 
+Swift        2 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+JavaScript   1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Other        1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+JSON         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 <!--END_SECTION:waka-->
