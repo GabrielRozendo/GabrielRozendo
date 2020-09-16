@@ -9,7 +9,8 @@
 - 🤝 I believe on team work and I like to help and be helped.
 - 🌱 Enthusiast for continuous improvement! 🤯
 - 🎯 2020 Goals: Survive without Covid! 🦠
-- 📖 And improve on architecture software skills. 📌
+  - 📱 WIP: Publish my first app in Google Play + App Store 📌
+  - 🔥 WIP: Have a nice repo challenge here in GitHub as portfolio 📌
 - 🚫 I don't like my comfort zone! ☢️
 - 💪 I like exercises, play sports 🏋️‍♂️🧗‍♂️🏈⚽
 - ♟️ And games. 🎲🃏
