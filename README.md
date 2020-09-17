@@ -65,12 +65,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2020 - 15 September, 2020
+Week: 09 September, 2020 - 16 September, 2020
 
-Dart       23 hrs 39 mins  ████████████████████░░░░░   80.53 % 
-Swift      2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python     1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Makefile   55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Bash       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Dart       30 hrs 20 mins  ████████████████████░░░░░   79.83 % 
+Python     2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Swift      2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Makefile   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Bash       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
