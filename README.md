@@ -65,7 +65,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2020 - 20 September, 2020
+Week: 14 September, 2020 - 21 September, 2020
 
 Dart     17 hrs 51 mins  █████████████████▓░░░░░░░   70.76 % 
 Python   4 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
