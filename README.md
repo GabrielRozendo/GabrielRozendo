@@ -4,17 +4,16 @@
 
 ### Nowadays working on **Mobile** 👨‍💻📱: iOS Swift / Flutter
 
-- 🤖 **I love technology and innovations!** 🚀
-- 🔐 There are a lot of private repositories here 🙈
-- 🤝 I believe on team work and I like to help and be helped.
-- 🌱 Enthusiast for continuous improvement! 🤯
-- 🎯 2020 Goals: Survive without Covid! 🦠
-  - 📱 WIP: Publish my first app in Google Play + App Store 📌
-  - 🔥 WIP: Have a nice repo challenge here in GitHub as portfolio 📌
-- 🚫 I don't like my comfort zone! ☢️
-- 💪 I like exercises, play sports 🏋️‍♂️🧗‍♂️🏈⚽
-- ♟️ And games. 🎲🃏
-- ✈️ I like my country 🇧🇷 and also like to have experiences abroad. 🗺️🌐
+- 🤖  **I love technology and innovations!** 🚀
+- 🔐  There are a lot of private repositories here 🙈
+- 🤝  I believe on team work and I like to help and be helped.
+- 🌱  Enthusiast for continuous improvement! 🤯
+- 🎯  2020 Goals: Survive without Covid! 🦠
+  - 📱  WIP: Publish my first app in Google Play + App Store 📌
+  - 🔥  WIP: Have a nice repo challenge here in GitHub as portfolio 📌
+- 🚫  I don't like my comfort zone! ☢️
+- 💪  I like exercises, play sports 🏋️‍🧗‍🏈⚽
+- ♟️  And games. 🎲🃏
 
 ---
 
