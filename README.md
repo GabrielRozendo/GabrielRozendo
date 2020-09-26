@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2020 - 24 September, 2020
+Week: 18 September, 2020 - 25 September, 2020
 
-Python     4 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   35.02 % 
-Markdown   2 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Makefile   1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Other      1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Swift      1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Python     4 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.72 % 
+Markdown   2 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Makefile   1 hr 54 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Other      1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Swift      1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 ```
 <!--END_SECTION:waka-->
