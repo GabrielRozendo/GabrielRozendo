@@ -64,10 +64,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2020 - 01 October, 2020
+Week: 25 September, 2020 - 02 October, 2020
 
-Makefile   21 mins         █████████████▓░░░░░░░░░░░   55.33 % 
-Markdown   14 mins         █████████▒░░░░░░░░░░░░░░░   37.50 % 
-Swift      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Makefile   12 mins         ████████████▓░░░░░░░░░░░░   50.65 % 
+Markdown   9 mins          █████████▓░░░░░░░░░░░░░░░   38.43 % 
+Swift      2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 ```
 <!--END_SECTION:waka-->
