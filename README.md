@@ -64,6 +64,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 29 September, 2020 - 06 October, 2020
+
+Makefile   29 mins         ████████████████████████▒   97.31 % 
 ```
 <!--END_SECTION:waka-->
