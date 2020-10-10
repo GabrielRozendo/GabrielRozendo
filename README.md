@@ -64,8 +64,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2020 - 08 October, 2020
+Week: 02 October, 2020 - 09 October, 2020
 
-Makefile   29 mins         ████████████████████████▒   97.31 % 
+Makefile   35 mins         ████████████████▒░░░░░░░░   65.39 % 
+Dart       17 mins         ████████▒░░░░░░░░░░░░░░░░   33.09 % 
 ```
 <!--END_SECTION:waka-->
