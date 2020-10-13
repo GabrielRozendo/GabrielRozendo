@@ -64,7 +64,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2020 - 11 October, 2020
+Week: 05 October, 2020 - 12 October, 2020
 
 Makefile   35 mins         ████████████████▒░░░░░░░░   65.39 % 
 Dart       17 mins         ████████▒░░░░░░░░░░░░░░░░   33.09 % 
