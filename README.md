@@ -64,9 +64,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 October, 2020 - 13 October, 2020
+Week: 07 October, 2020 - 14 October, 2020
 
-Dart       17 mins         ███████████████████░░░░░░   76.18 % 
-Makefile   5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Makefile   17 mins         ████████████░░░░░░░░░░░░░   48.00 % 
+Dart       17 mins         ████████████░░░░░░░░░░░░░   47.89 % 
+Bash       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 <!--END_SECTION:waka-->
