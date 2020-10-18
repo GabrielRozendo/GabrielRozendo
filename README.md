@@ -64,9 +64,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2020 - 16 October, 2020
+Week: 10 October, 2020 - 17 October, 2020
 
-Makefile   12 mins         ██████████████████████▒░░   88.93 % 
-Bash       1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Bash       13 mins         ████████████▒░░░░░░░░░░░░   50.00 % 
+Makefile   12 mins         ███████████▓░░░░░░░░░░░░░   46.21 % 
 ```
 <!--END_SECTION:waka-->
