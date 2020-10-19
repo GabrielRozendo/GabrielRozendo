@@ -64,9 +64,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2020 - 17 October, 2020
+Week: 11 October, 2020 - 18 October, 2020
 
-Bash       13 mins         ████████████▒░░░░░░░░░░░░   50.00 % 
-Makefile   12 mins         ███████████▓░░░░░░░░░░░░░   46.21 % 
+Python       50 mins         ██████████████▓░░░░░░░░░░   58.95 % 
+Bash         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Makefile     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+TypeScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 ```
 <!--END_SECTION:waka-->
