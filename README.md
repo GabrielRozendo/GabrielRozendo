@@ -64,11 +64,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2020 - 19 October, 2020
+Week: 13 October, 2020 - 20 October, 2020
 
-Python       50 mins         ██████████████▓░░░░░░░░░░   58.95 % 
-Bash         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Makefile     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-TypeScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Python       50 mins         ██████████████▒░░░░░░░░░░   57.94 % 
+Bash         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Makefile     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+TypeScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 <!--END_SECTION:waka-->
