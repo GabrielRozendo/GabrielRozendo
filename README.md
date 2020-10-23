@@ -64,7 +64,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2020 - 21 October, 2020
+Week: 15 October, 2020 - 22 October, 2020
 
 Python       1 hr 7 mins     ██████████████████▓░░░░░░   74.97 % 
 Bash         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
