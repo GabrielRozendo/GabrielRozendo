@@ -64,10 +64,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2020 - 22 October, 2020
+Week: 16 October, 2020 - 23 October, 2020
 
-Python       1 hr 7 mins     ██████████████████▓░░░░░░   74.97 % 
-Bash         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-TypeScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Python       1 hr 20 mins    ███████████████████▒░░░░░   77.88 % 
+Bash         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+TypeScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 ```
 <!--END_SECTION:waka-->
