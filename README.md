@@ -64,9 +64,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2020 - 24 October, 2020
+Week: 18 October, 2020 - 25 October, 2020
 
-Python       1 hr 20 mins    ██████████████████████▒░░   88.96 % 
-TypeScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Python     30 mins         ███████████████████████▓░   94.54 % 
 ```
 <!--END_SECTION:waka-->
