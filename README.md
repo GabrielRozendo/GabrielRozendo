@@ -64,8 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2020 - 26 October, 2020
+Week: 20 October, 2020 - 27 October, 2020
 
-Python     30 mins         ███████████████████████▓░   94.54 % 
+Dart     6 hrs 55 mins   █████████████████▓░░░░░░░   70.25 % 
+Python   1 hr 44 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.60 % 
+JSON     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+HTML     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+YAML     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 <!--END_SECTION:waka-->
