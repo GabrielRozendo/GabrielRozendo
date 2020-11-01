@@ -64,7 +64,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 October, 2020 - 30 October, 2020
+Week: 24 October, 2020 - 31 October, 2020
 
 Dart     8 hrs 4 mins    ███████████████░░░░░░░░░░   59.67 % 
 Python   2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
