@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2020 - 03 November, 2020
+Week: 28 October, 2020 - 04 November, 2020
 
-Python       1 hr 46 mins    ████████▒░░░░░░░░░░░░░░░░   32.76 % 
-Dart         1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.48 % 
-JSON         1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.45 % 
-TypeScript   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Other        23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Python       1 hr 25 mins    █████████████████▓░░░░░░░   70.51 % 
+TypeScript   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
+Markdown     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
