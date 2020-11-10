@@ -64,7 +64,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2020 - 08 November, 2020
+Week: 02 November, 2020 - 09 November, 2020
 
 Python       10 hrs 13 mins  ██████████████████░░░░░░░   71.56 % 
 Text         1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
