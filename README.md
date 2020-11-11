@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2020 - 09 November, 2020
+Week: 03 November, 2020 - 10 November, 2020
 
-Python       10 hrs 13 mins  ██████████████████░░░░░░░   71.56 % 
-Text         1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-TypeScript   45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python       10 hrs 2 mins   █████████████████▒░░░░░░░   69.54 % 
+Text         1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+TypeScript   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 <!--END_SECTION:waka-->
