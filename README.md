@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2020 - 12 November, 2020
+Week: 06 November, 2020 - 13 November, 2020
 
-Python       6 hrs 24 mins   ███████████████▓░░░░░░░░░   62.26 % 
-Dart         1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-TypeScript   50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Text         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-CSV          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Python       1 hr 54 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.72 % 
+Dart         1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+TypeScript   1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Vue.js       1 hr 15 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Text         50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 ```
 <!--END_SECTION:waka-->
