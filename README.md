@@ -64,11 +64,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 November, 2020 - 21 November, 2020
-
-Python       31 mins         █████████████░░░░░░░░░░░░   52.64 % 
-Text         21 mins         █████████░░░░░░░░░░░░░░░░   36.52 % 
-JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
