@@ -64,6 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 December, 2020 - 08 December, 2020
+
+Python   1 hr 52 mins    ███████████████▒░░░░░░░░░   61.03 % 
+TOML     31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 % 
+JSON     17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Text     9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Dart     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 <!--END_SECTION:waka-->
