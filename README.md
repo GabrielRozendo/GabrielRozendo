@@ -64,7 +64,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2020 - 13 December, 2020
+Week: 07 December, 2020 - 14 December, 2020
 
 Python   16 hrs 57 mins  ██████████████████▓░░░░░░   74.25 % 
 YAML     1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
