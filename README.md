@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2020 - 15 December, 2020
+Week: 09 December, 2020 - 16 December, 2020
 
-Python     20 hrs 33 mins  ████████████████████▒░░░░   81.23 % 
-YAML       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Vue.js     1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Text       47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Markdown   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python       21 hrs 10 mins  █████████████████░░░░░░░░   67.39 % 
+TypeScript   3 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+YAML         1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Vue.js       1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Other        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
