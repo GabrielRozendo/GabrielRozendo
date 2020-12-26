@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
-Python       26 hrs 28 mins  █████████████████████▓░░░   87.04 % 
-HTML         1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-JSON         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Other        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Python       21 hrs 32 mins  █████████████████████░░░░   84.01 % 
+HTML         2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Other        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JavaScript   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
