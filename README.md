@@ -64,12 +64,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2020 - 29 December, 2020
+Week: 23 December, 2020 - 30 December, 2020
 
-Python      10 hrs 10 mins  ██████████████████▒░░░░░░   72.83 % 
-HTML        2 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.12 % 
-Bash        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Other       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Batchfile   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python      9 hrs 55 mins   ██████████████████▒░░░░░░   73.25 % 
+HTML        2 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.76 % 
+Other       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Bash        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Batchfile   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 <!--END_SECTION:waka-->
