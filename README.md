@@ -61,12 +61,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
-Python     4 hrs 38 mins   █████████████████████▒░░░   85.56 % 
-Other      23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-HTML       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Python       2 hrs 27 mins   ████████████████░░░░░░░░░   63.86 % 
+Batchfile    33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Other        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+HTML         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
