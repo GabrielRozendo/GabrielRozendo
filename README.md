@@ -61,7 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2021 - 10 January, 2021
+Week: 04 January, 2021 - 11 January, 2021
 
 Python       6 hrs 45 mins   ████████████████████▒░░░░   80.70 % 
 Batchfile    33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
