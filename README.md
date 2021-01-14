@@ -61,12 +61,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2021 - 12 January, 2021
+Week: 06 January, 2021 - 13 January, 2021
 
-Python       6 hrs 31 mins   █████████████████████▒░░░   84.87 % 
-Batchfile    32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Python       7 hrs 3 mins    █████████████████████▒░░░   85.14 % 
+Other        39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+YAML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
