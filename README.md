@@ -61,12 +61,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2021 - 29 January, 2021
+Week: 23 January, 2021 - 30 January, 2021
 
-Python   4 hrs 46 mins   ██████████████▓░░░░░░░░░░   58.07 % 
-Dart     2 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.00 % 
-YAML     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-XML      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-JSON     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+
 ```
 <!--END_SECTION:waka-->
