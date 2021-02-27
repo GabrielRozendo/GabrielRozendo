@@ -2,14 +2,14 @@
 
 ## Software Engineer
 
-### Nowadays working on **Mobile** 👨‍💻📱: iOS Swift / Flutter
+### Nowadays working on **Mobile** 👨‍💻📱 -> iOS Swift / Flutter
 
 - 🤖  **I love technology and innovations!** 🚀
 - 🔐  There are a lot of private repositories here 🙈
 - 🤝  I believe on team work and I like to help and be helped.
 - 🌱  Enthusiast for continuous improvement! 🤯
 - 🚫  I don't like my comfort zone! ☢️
-- 💪  I like exercises, play sports 🏋️‍🧗‍🏈⚽
+- 💪  I like to play sports 🏋️‍🧗‍🏈⚽
 - ♟️  And games. 🎲🃏
 
 ---
@@ -50,17 +50,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielRozendo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GabrielRozendo/)](https://www.linkedin.com/in/GabrielRozendo/)
 [![Telegram Badge](https://img.shields.io/badge/-@GabrielRozendo-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=telegram&logoColor=black&link=https://t.me/GabrielRozendo)](https://t.me/GabrielRozendo)
 [![Twitter Badge](https://img.shields.io/badge/-@GabrielRozendo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GabrielRozendo)](https://twitter.com/GabrielRozendo)
-
----
-
-![Gabriel Rozendo's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=GabrielRozendo&show_icons=true&hide_border=true&theme=gotham&count_private=true)
-
-![Gabriel Rozendo's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRozendo&theme=dark)
-
-📊 **This week I spent my time on**
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
