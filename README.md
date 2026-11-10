@@ -1,6 +1,6 @@
 <h1 align="center"><i>Hello world</i>, I'm Gabriel Rozendo <img src="/images/hi.gif" width="30px"></h1>
 
-![Maintenance](https://img.shields.io/maintenance/yes/2025?style=flat-square)
+![Maintenance](https://img.shields.io/maintenance/yes/2026?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/GabrielRozendo/GabrielRozendo.github.io?style=flat-square)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/GabrielRozendo/GabrielRozendo.github.io/hugo.yaml?style=flat-square&logo=GitHub)
 ![GitHub branch check runs](https://img.shields.io/github/check-runs/GabrielRozendo/GabrielRozendo.github.io/main?style=flat-square&logo=GitHub)
