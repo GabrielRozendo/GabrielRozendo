@@ -57,7 +57,7 @@ Also building tools & SaaS products 👀🔜
 
 When I'm not at a computer:
 
-- Working out 💪🏋️‍♂️🏃‍♂️🧗‍♂️ and/or playing some sports 🏈🏄‍♂️
+- Working out 💪🏋️‍♂️🏃‍♂️🧗‍♂️; playing some sports 🏈🏄‍♂️
 - Travelling ✈️
 - Having fun with family/friends 🫂
 - Watching Movie/Show 🎬
